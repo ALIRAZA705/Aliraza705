@@ -1,0 +1,5 @@
+[mongodb-org-unstable]
+name=MongoDB Unstable Repository
+baseurl=https://repo.mongodb.org/yum/amazon/2013.03/mongodb-org/unstable/x86_64/
+gpgcheck=0
+enabled=1
